@@ -1,1 +1,2 @@
 hi its a new text file created from gitbash to local repository
+with npp
