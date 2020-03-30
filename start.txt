@@ -2,3 +2,5 @@ hi its a new text file created from gitbash to local repository
 with npp
 adding some new text for modification
 another modification
+another modification for testing diff tool p4merge
+
