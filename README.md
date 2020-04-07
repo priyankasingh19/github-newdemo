@@ -1,19 +1,19 @@
-#NEW-DEMO
+# NEW-DEMO
 
-##Introduction
+## Introduction
 Its a demo application for learning basic git concepts.
 
-##Devlopment
+## Devlopment
 adding few codes to the repository.
 
-##Testing
+## Testing
 for testing yoou can use junit.
 
-##Production
+## Production
 nothing goes in the production.
 
-###Copyright
-copyright 20202@priyanka.com
+### Copyright
+copyright 2020@priyanka.com
 
 
 
