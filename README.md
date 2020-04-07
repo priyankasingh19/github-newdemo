@@ -1,6 +1,7 @@
 #NEW-DEMO
 
 ##Introduction
+Its a demo application for learning basic git concepts.
 
 ##Devlopment
 adding few codes to the repository.
@@ -9,6 +10,7 @@ adding few codes to the repository.
 for testing yoou can use junit.
 
 ##Production
+nothing goes in the production.
 
 ###Copyright
 copyright 20202@priyanka.com
